@@ -94,8 +94,8 @@
   <footerr></footerr>
 </template>
 <script>
-import topBar from '../components/topBar.vue'
-import footerr from '../components/footer.vue'
+import topBar from '../../components/topBar.vue'
+import footerr from '../../components/footer.vue'
 export default {
   data () {
     const validatePlace = (rule, value, callback) => {

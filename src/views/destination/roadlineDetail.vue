@@ -12,7 +12,7 @@
       </div>
     </div>
     <div class="map">
-      <img src="../assets/map.png"/>
+      <img src="../../assets/map.png"/>
     </div>
   </div>
 </template>

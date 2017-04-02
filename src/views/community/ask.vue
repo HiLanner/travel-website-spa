@@ -67,8 +67,8 @@
 
 </template>
 <script>
-  import topBar from '../components/topBar.vue'
-  import textArea from '../components/textarea.vue'
+  import topBar from '../../components/topBar.vue'
+  import textArea from '../../components/textarea.vue'
   export default {
     components: {
       topBar,

@@ -1,7 +1,7 @@
 <template>
   <top-bar></top-bar>
   <div class="set-bg">
-    <img src="../assets/set-bg.jpeg"/>
+    <img src="../../assets/set-bg.jpeg"/>
   </div>
   <div class="view-info">
     <div class="vi-con">
@@ -11,7 +11,7 @@
       <div class="view-center">
         <div class="person">
           <a href="#" class="per_pic">
-            <img src="../assets/photo.jpeg"/>
+            <img src="../../assets/photo.jpeg"/>
           </a>
           <strong>
             <a href="#" target="_blank" class="per_name">我是瘦子</a>
@@ -34,21 +34,21 @@
             </div>
             <p>金鞭溪</p>
             <div class="add_pic">
-              <img src="../assets/test.jpeg" />
+              <img src="../../assets/test.jpeg" />
             </div>
             <div class="article-tit">
               <h2>湘西旅行的顶级体验</h2>
             </div>
             <p>金鞭溪</p>
             <div class="add_pic">
-              <img src="../assets/test.jpeg" />
+              <img src="../../assets/test.jpeg" />
             </div>
             <div class="article-tit">
               <h2>湘西旅行的顶级体验</h2>
             </div>
             <p>金鞭溪</p>
             <div class="add_pic">
-              <img src="../assets/test.jpeg" />
+              <img src="../../assets/test.jpeg" />
             </div>
           </div>
           <div class="commits">
@@ -56,7 +56,7 @@
               <div class="commit-info">
                 <div class="commit-photo">
                   <a href="#">
-                    <img src="../assets/photo.jpeg"/>
+                    <img src="../../assets/photo.jpeg"/>
                   </a>
                 </div>
                 <div class="commit-user">
@@ -75,7 +75,7 @@
               <div class="reply">
                 <div class="reply-info">
                   <div class="reply-photo">
-                    <img src='../assets/photo.jpeg'>
+                    <img src='../../assets/photo.jpeg'>
                   </div>
                   <div class="reply-user">
                     <div class="reply-content">
@@ -106,7 +106,7 @@
   </div>
 </template>
 <script>
-  import topBar from '../components/topBar.vue'
+  import topBar from '../../components/topBar.vue'
   export default {
     components: {
       topBar
@@ -183,7 +183,7 @@
         margin: 20px 0;
         position: relative;
         h2
-          background: url("../assets/paragraph/ps1.gif") 0 0 no-repeat;
+          background: url("../../assets/paragraph/ps1.gif") 0 0 no-repeat;
           text-align: center;
           line-height 95px
           span

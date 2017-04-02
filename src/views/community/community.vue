@@ -11,13 +11,13 @@
             </h2>
             <div class="answer">
               <div class="avatar">
-                <a href="user.com"><img src="../assets/photo.jpeg"/></a>
+                <a href="user.com"><img src="../../assets/photo.jpeg"/></a>
               </div>
               <div class="user-info">
                 <a href="user.com">我是瘦子</a>
               </div>
               <div class="desc clearfix">
-                <img src="../assets/img01.jpeg">
+                <img src="../../assets/img01.jpeg">
                 <p>
                   为了这些美食你完全可以专程去一趟曼谷！
                   Asia's 50 Best Restaurants 由英国知名美食《Restaurant》杂志主办，是和米其林指南齐名的权威美食榜单。
@@ -37,13 +37,13 @@
             <h2><Icon type="help" color="#3399ff" size="20px"></Icon>&nbsp;&nbsp;&nbsp;西湖什么时候最美？最佳观赏地点在哪儿</h2>
             <div class="answer">
               <div class="avatar">
-                <a href="user.com"><img src="../assets/photo.jpeg"/></a>
+                <a href="user.com"><img src="../../assets/photo.jpeg"/></a>
               </div>
               <div class="user-info">
                 <a href="user.com">我是瘦子</a>
               </div>
               <div class="desc clearfix">
-                <img src="../assets/img01.jpeg">
+                <img src="../../assets/img01.jpeg">
                 <p>
                   为了这些美食你完全可以专程去一趟曼谷！
                   Asia's 50 Best Restaurants 由英国知名美食《Restaurant》杂志主办，是和米其林指南齐名的权威美食榜单。
@@ -63,13 +63,13 @@
             <h2><Icon type="help" color="#3399ff" size="20px"></Icon>&nbsp;&nbsp;&nbsp;西湖什么时候最美？最佳观赏地点在哪儿</h2>
             <div class="answer">
               <div class="avatar">
-                <a href="user.com"><img src="../assets/photo.jpeg"/></a>
+                <a href="user.com"><img src="../../assets/photo.jpeg"/></a>
               </div>
               <div class="user-info">
                 <a href="user.com">我是瘦子</a>
               </div>
               <div class="desc clearfix">
-                <img src="../assets/img01.jpeg">
+                <img src="../../assets/img01.jpeg">
                 <p>
                   为了这些美食你完全可以专程去一趟曼谷！
                   Asia's 50 Best Restaurants 由英国知名美食《Restaurant》杂志主办，是和米其林指南齐名的权威美食榜单。
@@ -89,13 +89,13 @@
             <h2><Icon type="help" color="#3399ff" size="20px"></Icon>&nbsp;&nbsp;&nbsp;西湖什么时候最美？最佳观赏地点在哪儿</h2>
             <div class="answer">
               <div class="avatar">
-                <a href="user.com"><img src="../assets/photo.jpeg"/></a>
+                <a href="user.com"><img src="../../assets/photo.jpeg"/></a>
               </div>
               <div class="user-info">
                 <a href="user.com">我是瘦子</a>
               </div>
               <div class="desc clearfix">
-                <img src="../assets/img01.jpeg">
+                <img src="../../assets/img01.jpeg">
                 <p>
                   为了这些美食你完全可以专程去一趟曼谷！
                   Asia's 50 Best Restaurants 由英国知名美食《Restaurant》杂志主办，是和米其林指南齐名的权威美食榜单。
@@ -115,13 +115,13 @@
             <h2><Icon type="help" color="#3399ff" size="20px"></Icon>&nbsp;&nbsp;&nbsp;西湖什么时候最美？最佳观赏地点在哪儿</h2>
             <div class="answer">
               <div class="avatar">
-                <a href="user.com"><img src="../assets/photo.jpeg"/></a>
+                <a href="user.com"><img src="../../assets/photo.jpeg"/></a>
               </div>
               <div class="user-info">
                 <a href="user.com">我是瘦子</a>
               </div>
               <div class="desc clearfix">
-                <img src="../assets/img01.jpeg">
+                <img src="../../assets/img01.jpeg">
                 <p>
                   为了这些美食你完全可以专程去一趟曼谷！
                   Asia's 50 Best Restaurants 由英国知名美食《Restaurant》杂志主办，是和米其林指南齐名的权威美食榜单。
@@ -141,13 +141,13 @@
             <h2><Icon type="help" color="#3399ff" size="20px"></Icon>&nbsp;&nbsp;&nbsp;西湖什么时候最美？最佳观赏地点在哪儿</h2>
             <div class="answer">
               <div class="avatar">
-                <a href="user.com"><img src="../assets/photo.jpeg"/></a>
+                <a href="user.com"><img src="../../assets/photo.jpeg"/></a>
               </div>
               <div class="user-info">
                 <a href="user.com">我是瘦子</a>
               </div>
               <div class="desc clearfix">
-                <img src="../assets/img01.jpeg">
+                <img src="../../assets/img01.jpeg">
                 <p>
                   为了这些美食你完全可以专程去一趟曼谷！
                   Asia's 50 Best Restaurants 由英国知名美食《Restaurant》杂志主办，是和米其林指南齐名的权威美食榜单。
@@ -167,13 +167,13 @@
             <h2><Icon type="help" color="#3399ff" size="20px"></Icon>&nbsp;&nbsp;&nbsp;西湖什么时候最美？最佳观赏地点在哪儿</h2>
             <div class="answer">
               <div class="avatar">
-                <a href="user.com"><img src="../assets/photo.jpeg"/></a>
+                <a href="user.com"><img src="../../assets/photo.jpeg"/></a>
               </div>
               <div class="user-info">
                 <a href="user.com">我是瘦子</a>
               </div>
               <div class="desc clearfix">
-                <img src="../assets/img01.jpeg">
+                <img src="../../assets/img01.jpeg">
                 <p>
                   为了这些美食你完全可以专程去一趟曼谷！
                   Asia's 50 Best Restaurants 由英国知名美食《Restaurant》杂志主办，是和米其林指南齐名的权威美食榜单。
@@ -193,13 +193,13 @@
             <h2><Icon type="help" color="#3399ff" size="20px"></Icon>&nbsp;&nbsp;&nbsp;西湖什么时候最美？最佳观赏地点在哪儿</h2>
             <div class="answer">
               <div class="avatar">
-                <a href="user.com"><img src="../assets/photo.jpeg"/></a>
+                <a href="user.com"><img src="../../assets/photo.jpeg"/></a>
               </div>
               <div class="user-info">
                 <a href="user.com">我是瘦子</a>
               </div>
               <div class="desc clearfix">
-                <img src="../assets/img01.jpeg">
+                <img src="../../assets/img01.jpeg">
                 <p>
                   为了这些美食你完全可以专程去一趟曼谷！
                   Asia's 50 Best Restaurants 由英国知名美食《Restaurant》杂志主办，是和米其林指南齐名的权威美食榜单。
@@ -219,13 +219,13 @@
             <h2><Icon type="help" color="#3399ff" size="20px"></Icon>&nbsp;&nbsp;&nbsp;西湖什么时候最美？最佳观赏地点在哪儿</h2>
             <div class="answer">
               <div class="avatar">
-                <a href="user.com"><img src="../assets/photo.jpeg"/></a>
+                <a href="user.com"><img src="../../assets/photo.jpeg"/></a>
               </div>
               <div class="user-info">
                 <a href="user.com">我是瘦子</a>
               </div>
               <div class="desc clearfix">
-                <img src="../assets/img01.jpeg">
+                <img src="../../assets/img01.jpeg">
                 <p>
                   为了这些美食你完全可以专程去一趟曼谷！
                   Asia's 50 Best Restaurants 由英国知名美食《Restaurant》杂志主办，是和米其林指南齐名的权威美食榜单。
@@ -245,13 +245,13 @@
             <h2><Icon type="help" color="#3399ff" size="20px"></Icon>&nbsp;&nbsp;&nbsp;西湖什么时候最美？最佳观赏地点在哪儿</h2>
             <div class="answer">
               <div class="avatar">
-                <a href="user.com"><img src="../assets/photo.jpeg"/></a>
+                <a href="user.com"><img src="../../assets/photo.jpeg"/></a>
               </div>
               <div class="user-info">
                 <a href="user.com">我是瘦子</a>
               </div>
               <div class="desc clearfix">
-                <img src="../assets/img01.jpeg">
+                <img src="../../assets/img01.jpeg">
                 <p>
                   为了这些美食你完全可以专程去一趟曼谷！
                   Asia's 50 Best Restaurants 由英国知名美食《Restaurant》杂志主办，是和米其林指南齐名的权威美食榜单。
@@ -275,7 +275,7 @@
           <div class="W question">
             <h2><Icon type="help" color="#3399ff" size="20px"></Icon>&nbsp;&nbsp;&nbsp;西湖什么时候最美？最佳观赏地点在哪儿</h2>
             <div class="Q-user-infor">
-              <a href="" class="photo" target="_blank"><img src="../assets/photo.jpeg"/></a>
+              <a href="" class="photo" target="_blank"><img src="../../assets/photo.jpeg"/></a>
               <a class="name">我是瘦子</a>
               <span class="time">2016-10-26 13:55:05</span>
             </div>
@@ -291,7 +291,7 @@
           <div class="R question">
             <h2><Icon type="help" color="#3399ff" size="20px"></Icon>&nbsp;&nbsp;&nbsp;西湖什么时候最美？最佳观赏地点在哪儿</h2>
             <div class="Q-user-infor">
-              <a href="" class="photo" target="_blank"><img src="../assets/photo.jpeg"/></a>
+              <a href="" class="photo" target="_blank"><img src="../../assets/photo.jpeg"/></a>
               <a class="name">我是瘦子</a>
               <span class="time">2016-10-26 13:55:05</span>
             </div>
@@ -307,7 +307,7 @@
           <div class="R question">
             <h2><Icon type="help" color="#3399ff" size="20px"></Icon>&nbsp;&nbsp;&nbsp;西湖什么时候最美？最佳观赏地点在哪儿</h2>
             <div class="Q-user-infor">
-              <a href="" class="photo" target="_blank"><img src="../assets/photo.jpeg"/></a>
+              <a href="" class="photo" target="_blank"><img src="../../assets/photo.jpeg"/></a>
               <a class="name">我是瘦子</a>
               <span class="time">2016-10-26 13:55:05</span>
             </div>
@@ -323,7 +323,7 @@
           <div class="R question">
             <h2><Icon type="help" color="#3399ff" size="20px"></Icon>&nbsp;&nbsp;&nbsp;西湖什么时候最美？最佳观赏地点在哪儿</h2>
             <div class="Q-user-infor">
-              <a href="" class="photo" target="_blank"><img src="../assets/photo.jpeg"/></a>
+              <a href="" class="photo" target="_blank"><img src="../../assets/photo.jpeg"/></a>
               <a class="name">我是瘦子</a>
               <span class="time">2016-10-26 13:55:05</span>
             </div>
@@ -341,7 +341,7 @@
           <div class="W question">
             <h2><Icon type="help" color="#3399ff" size="20px"></Icon>&nbsp;&nbsp;&nbsp;西湖什么时候最美？最佳观赏地点在哪儿</h2>
             <div class="Q-user-infor">
-              <a href="" class="photo" target="_blank"><img src="../assets/photo.jpeg"/></a>
+              <a href="" class="photo" target="_blank"><img src="../../assets/photo.jpeg"/></a>
               <a class="name">我是瘦子</a>
               <span class="time">2016-10-26 13:55:05</span>
             </div>
@@ -356,7 +356,7 @@
           <div class="W question">
             <h2><Icon type="help" color="#3399ff" size="20px"></Icon>&nbsp;&nbsp;&nbsp;西湖什么时候最美？最佳观赏地点在哪儿</h2>
             <div class="Q-user-infor">
-              <a href="" class="photo" target="_blank"><img src="../assets/photo.jpeg"/></a>
+              <a href="" class="photo" target="_blank"><img src="../../assets/photo.jpeg"/></a>
               <a class="name">我是瘦子</a>
               <span class="time">2016-10-26 13:55:05</span>
             </div>
@@ -371,7 +371,7 @@
           <div class="W question">
             <h2><Icon type="help" color="#3399ff" size="20px"></Icon>&nbsp;&nbsp;&nbsp;西湖什么时候最美？最佳观赏地点在哪儿</h2>
             <div class="Q-user-infor">
-              <a href="" class="photo" target="_blank"><img src="../assets/photo.jpeg"/></a>
+              <a href="" class="photo" target="_blank"><img src="../../assets/photo.jpeg"/></a>
               <a class="name">我是瘦子</a>
               <span class="time">2016-10-26 13:55:05</span>
             </div>
@@ -386,7 +386,7 @@
           <div class="W question">
             <h2><Icon type="help" color="#3399ff" size="20px"></Icon>&nbsp;&nbsp;&nbsp;西湖什么时候最美？最佳观赏地点在哪儿</h2>
             <div class="Q-user-infor">
-              <a href="" class="photo" target="_blank"><img src="../assets/photo.jpeg"/></a>
+              <a href="" class="photo" target="_blank"><img src="../../assets/photo.jpeg"/></a>
               <a class="name">我是瘦子</a>
               <span class="time">2016-10-26 13:55:05</span>
             </div>
@@ -410,9 +410,9 @@
   </Row>
 </template>
 <script>
-  import tag from '../components/tag.vue'
-  import recommend from '../components/recommend .vue'
-  import footerr from '../components/footer.vue'
+  import tag from '../../components/tag.vue'
+  import recommend from '../../components/recommend .vue'
+  import footerr from '../../components/footer.vue'
   export default {
     components: {
       tag,

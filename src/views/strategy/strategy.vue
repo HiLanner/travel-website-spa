@@ -111,7 +111,7 @@
   </Row>
 </template>
 <script>
-  import recommend from '../components/recommend .vue'
+  import recommend from '../../components/recommend .vue'
   export default {
     components: {
       recommend

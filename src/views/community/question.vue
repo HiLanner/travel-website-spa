@@ -13,7 +13,7 @@
             <div class="Q-hd">
               <h2><Icon type="help" color="#3399ff" size="20px"></Icon>&nbsp;&nbsp;&nbsp;西湖什么时候最美？最佳观赏地点在哪儿</h2>
               <div class="Q-user-infor">
-                <a href="" class="photo" target="_blank"><img src="../assets/photo.jpeg"/></a>
+                <a href="" class="photo" target="_blank"><img src="../../assets/photo.jpeg"/></a>
                 <a href="#" class="name">我是瘦子</a>
                 <span class="time">2016-10-26 13:55:05</span>
               </div>
@@ -38,14 +38,14 @@
                   <div class="answer-info clearfix">
                     <div class="user-bar fl">
                       <a class="avatar" href="#" target="_blank">
-                        <img src="../assets/photo.jpeg">
+                        <img src="../../assets/photo.jpeg">
                       </a>
                       <a class="name">我是瘦子</a>
                     </div>
                   </div>
                   <div class="instance" v-show="!expand">
                     <div class="img">
-                      <img src="../assets/beijing.jpeg">
+                      <img src="../../assets/beijing.jpeg">
                     </div>
                     <p>看到这个问题好想先大笑三声哈哈哈！ 正常情况你看到的故宫应该是这样的： 这样的： 如果你赶上节假日或者周末，
                       那故宫会变成这样的： 面对人满为患的故宫，2013年的时候故宫博物院前副院长李季先生的一场讲座正好提到这个话题，
@@ -55,15 +55,15 @@
                     看到这个问题好想先大笑三声哈哈哈！ 正常情况你看到的故宫应该是这样的： 这样的： 如果你赶上节假日或者周末，
                     那故宫会变成这样的： 面对人满为患的故宫，2013年的时候故宫博物院前副院长李季先生的一场讲座正好提到这个话题，
                     并且展示了历年全年游客流量数据图。 于是正确答案是：<br>
-                    <img src="../assets/beijing.jpeg">
+                    <img src="../../assets/beijing.jpeg">
                     看到这个问题好想先大笑三声哈哈哈！ 正常情况你看到的故宫应该是这样的： 这样的： 如果你赶上节假日或者周末，
                     那故宫会变成这样的： 面对人满为患的故宫，2013年的时候故宫博物院前副院长李季先生的一场讲座正好提到这个话题，
                     并且展示了历年全年游客流量数据图。 于是正确答案是：<br>
-                    <img src="../assets/beijing.jpeg">
+                    <img src="../../assets/beijing.jpeg">
                     看到这个问题好想先大笑三声哈哈哈！ 正常情况你看到的故宫应该是这样的： 这样的： 如果你赶上节假日或者周末，
                     那故宫会变成这样的： 面对人满为患的故宫，2013年的时候故宫博物院前副院长李季先生的一场讲座正好提到这个话题，
                     并且展示了历年全年游客流量数据图。 于是正确答案是：<br>
-                    <img src="../assets/beijing.jpeg">
+                    <img src="../../assets/beijing.jpeg">
                   </div>
                   <div class="operate">
                     <div class="cmt-toggle" @click="commitModal = !commitModal"><Icon type="chatbox-working"></Icon> 23条评论</div>
@@ -77,7 +77,7 @@
                       <li class="commit-item">
                         <div class="commit-user">
                           <a href="#" target="_blank">
-                            <img src="../assets/photo.jpeg">
+                            <img src="../../assets/photo.jpeg">
                           </a>
                         </div>
                         <dl>
@@ -92,7 +92,7 @@
                       <li class="commit-item">
                         <div class="commit-user">
                           <a href="#" target="_blank">
-                            <img src="../assets/photo.jpeg">
+                            <img src="../../assets/photo.jpeg">
                           </a>
                         </div>
                         <dl>
@@ -107,7 +107,7 @@
                       <li class="commit-item">
                         <div class="commit-user">
                           <a href="#" target="_blank">
-                            <img src="../assets/photo.jpeg">
+                            <img src="../../assets/photo.jpeg">
                           </a>
                         </div>
                         <dl>
@@ -158,9 +158,9 @@
   <footerr></footerr>
 </template>
 <script>
-  import tag from '../components/tag.vue'
-  import topBar from '../components/topBar.vue'
-  import footerr from '../components/footer.vue'
+  import tag from '../../components/tag.vue'
+  import topBar from '../../components/topBar.vue'
+  import footerr from '../../components/footer.vue'
   export default {
     data () {
       return {

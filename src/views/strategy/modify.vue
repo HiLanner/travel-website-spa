@@ -24,9 +24,9 @@
   <footerr></footerr>
 </template>
 <script>
-  import topBar from '../components/topBar.vue'
-  import edit from '../components/edit.vue'
-  import footerr from '../components/footer.vue'
+  import topBar from '../../components/topBar.vue'
+  import edit from '../../components/edit.vue'
+  import footerr from '../../components/footer.vue'
   export default {
     data () {
       return {
@@ -90,7 +90,7 @@
   .upload-file
     width 100%
     height 426px
-    background: url(../assets/page_bg.jpg) center 0 no-repeat;
+    background: url(../../assets/page_bg.jpg) center 0 no-repeat;
     background-size: cover;
     position: relative;
     .set-tit-img

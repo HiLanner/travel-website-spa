@@ -7,7 +7,7 @@
       <div class="line">
         <h3><Icon type="star" color="#3399ff"></Icon>&nbsp;&nbsp;北京6日游</h3>
         <div class="map">
-          <img src="../assets/map.png">
+          <img src="../../assets/map.png">
         </div>
         <div class="intro">
           <p>D1 <span>天安门广场</span><span class="arrow">→</span><span>前门大街</span><span class="arrow">→</span><span>故宫</span><span class="arrow">→</span><span>景山公园</span></p>
@@ -18,7 +18,7 @@
       <div class="line">
         <h3><Icon type="star" color="#3399ff"></Icon>&nbsp;&nbsp;北京6日游</h3>
         <div class="map">
-          <img src="../assets/map.png">
+          <img src="../../assets/map.png">
         </div>
         <div class="intro">
           <p>D1 <span>天安门广场</span><span class="arrow">→</span><span>前门大街</span><span class="arrow">→</span><span>故宫</span><span class="arrow">→</span><span>景山公园</span></p>

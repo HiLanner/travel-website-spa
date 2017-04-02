@@ -1,7 +1,7 @@
 <template>
   <Row :gutter="40">
     <i-col span="8">
-      <div class="destination-img"><img src="../assets/beijing.jpeg" /></div>
+      <div class="destination-img"><img src="../../assets/beijing.jpeg" /></div>
       <div class="cover">
         <h3>在北京，我想和你...</h3>
         <p>去TRB bites美美地吃个下午茶</p>
@@ -10,7 +10,7 @@
       </div>
     </i-col>
     <i-col span="8">
-      <div class="destination-img"><img src="../assets/chengdu.jpeg"></div>
+      <div class="destination-img"><img src="../../assets/chengdu.jpeg"></div>
       <div class="cover">
         <h3>在成都IFS、太古里快耍慢活</h3>
         <p>传统与现代融合的成都太古里</p>
@@ -19,7 +19,7 @@
       </div>
     </i-col>
     <i-col span="8">
-      <div class="destination-img"><img src="../assets/hangzhou.jpeg"></div>
+      <div class="destination-img"><img src="../../assets/hangzhou.jpeg"></div>
       <div class="cover">
         <h3>烟雨蒙蒙的江南西子</h3>
         <p>春有柳絮雨濛濛，夏有荷花腰肢展</p>
