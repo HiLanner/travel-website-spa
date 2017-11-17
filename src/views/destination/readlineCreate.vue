@@ -167,8 +167,6 @@ export default {
       placeObj.place = this.formCustom.place
       placeObj.time = this.formCustom.time
       this.roadline[index].push(placeObj)
-      // this.formCustom.place = ''
-      // this.formCustom.time = ''
     },
     createNewRoad () {
       this.initRoadLine()

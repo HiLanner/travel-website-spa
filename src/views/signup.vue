@@ -3,7 +3,7 @@
     <p>当前正在进行第 {{ current + 1 }} 步</p>
     <Steps :current="current">
       <Step title="注册" content="请填写基本信息"></Step>
-      <Step title="验证" content="请输入收到的验证码"></Step>
+      <!--<Step title="验证" content="请输入收到的验证码"></Step>-->
       <Step title="完成" content="恭喜你，已完成"></Step>
     </Steps>
     <div class="form-con">
@@ -30,22 +30,22 @@
           </Upload>
         </i-form>
       </div>
-      <div class="step2" v-show="current == 1">
-        <p class="code-tip">请输入邮箱收到的6位数验证码</p>
-        <i-form
-          :model="formValidate"
-          label-position="left"
-          :label-width="80"
-          v-ref:form-validate
-          :model="formInline"
-          :rules="ruleValidate" inline>
+      <!--<div class="step2" v-show="current == 1">-->
+        <!--<p class="code-tip">请输入邮箱收到的6位数验证码</p>-->
+        <!--<i-form-->
+          <!--:model="formValidate"-->
+          <!--label-position="left"-->
+          <!--:label-width="80"-->
+          <!--v-ref:form-validate-->
+          <!--:model="formInline"-->
+          <!--:rules="ruleValidate" inline>-->
 
-          <Form-item label="验证码"  prop="code">
-            <i-input style="width: 80px" :value.sync="formValidate.code"></i-input>
-          </Form-item>
-        </i-form>
-      </div>
-      <div class="step3" v-show="current == 2">
+          <!--<Form-item label="验证码"  prop="code">-->
+            <!--<i-input style="width: 80px" :value.sync="formValidate.code"></i-input>-->
+          <!--</Form-item>-->
+        <!--</i-form>-->
+      <!--</div>-->
+      <div class="step2" v-show="current == 1">
         <div class="finsh-step">
           <Icon type="checkmark" size="large" color="#3399ff"></Icon>
           <span>恭喜你，已全部完成～</span>
@@ -94,7 +94,7 @@
     },
     methods: {
       next () {
-        if (this.current === 2) {
+        if (this.current === 1) {
           this.current = 0
         } else {
           this.current += 1

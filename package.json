@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "babel-runtime": "^6.0.0",
+    "express-session": "^1.15.2",
     "iview": "^1.0.1",
     "vue": "^1.0.21"
   },
