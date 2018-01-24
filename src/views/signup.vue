@@ -25,26 +25,11 @@
           <Form-item label="密码"  prop="password">
             <i-input style="width: 300px" :value.sync="formValidate.password"></i-input>
           </Form-item>
-          <Upload action="//jsonplaceholder.typicode.com/posts/">
+          <Upload action="https://juejin.im/entry/599dad0ff265da248b04d7b8">
             <i-button type="ghost" icon="ios-cloud-upload-outline">上传文件</i-button>
           </Upload>
         </i-form>
       </div>
-      <!--<div class="step2" v-show="current == 1">-->
-        <!--<p class="code-tip">请输入邮箱收到的6位数验证码</p>-->
-        <!--<i-form-->
-          <!--:model="formValidate"-->
-          <!--label-position="left"-->
-          <!--:label-width="80"-->
-          <!--v-ref:form-validate-->
-          <!--:model="formInline"-->
-          <!--:rules="ruleValidate" inline>-->
-
-          <!--<Form-item label="验证码"  prop="code">-->
-            <!--<i-input style="width: 80px" :value.sync="formValidate.code"></i-input>-->
-          <!--</Form-item>-->
-        <!--</i-form>-->
-      <!--</div>-->
       <div class="step2" v-show="current == 1">
         <div class="finsh-step">
           <Icon type="checkmark" size="large" color="#3399ff"></Icon>
@@ -95,7 +80,12 @@
     methods: {
       next () {
         if (this.current === 1) {
-          this.current = 0
+          console.log(this.$http, 212114242141244)
+          this.$http.post('/api/signup', this.formValidate).then(res => {
+            console.log(res, 12321321321)
+          }).catch(err => {
+            console.log(err, 2323341431)
+          })
         } else {
           this.current += 1
         }

@@ -19,6 +19,7 @@
     "vue": "^1.0.21"
   },
   "devDependencies": {
+    "axios": "^0.17.1",
     "babel-core": "^6.0.0",
     "babel-eslint": "^6.1.2",
     "babel-loader": "^6.0.0",
